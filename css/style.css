@@ -11,32 +11,24 @@ body {
   max-width: 600px;
   margin: 0 auto;
   border-radius: 10px;
-  color: #333;
 }
 .sass-card h1 {
-  color: #6c63ff;
-  font-size: 40px;
+  color: green;
 }
 .sass-card h2 {
-  color: #6c63ff;
+  color: green;
 }
 .sass-card p {
+  color: green;
   font-size: 18px;
   line-height: 1.6;
 }
 .sass-card button {
-  background-color: #6c63ff;
+  background-color: green;
   color: white;
   border: none;
   padding: 12px 25px;
   border-radius: 5px;
-  cursor: pointer;
-}
-.sass-card button:hover {
-  background-color: #5148c7;
-}
-.sass-card:hover {
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 
 /*# sourceMappingURL=style.css.map */
